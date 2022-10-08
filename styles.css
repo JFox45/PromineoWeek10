@@ -1,0 +1,30 @@
+#waitingList {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-size-adjust: 10rem;
+}
+
+#list {
+    text-align: center;
+}
+
+#btnSubmit {
+    position: relative;
+    right: -23.75rem;
+    top: 12px;
+}
+
+body {
+    background-image: url('istockphoto-177787087-612x612.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+form {
+    width: 100%;
+    padding: 0px 200px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
